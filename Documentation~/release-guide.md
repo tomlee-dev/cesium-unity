@@ -76,7 +76,7 @@ If all of the above goes well, you're ready to release Cesium for Unity.
 
 1. Tag the cesium-native release if you haven't already, and push the tag. See the [Cesium Native release guide](#native-release-process) for instructions.
 2. Tag the cesium-unity release, and push the tag. Be sure you're tagging the exact commit that you tested.
-   - `git tag -a v1.21.0 -m "v1.21.0 release`
+   - `git tag -a v1.21.0 -m "v1.21.0 release"`
    - `git push origin v1.21.0`
 3. Publish the release on GitHub.
    - Visit https://github.com/CesiumGS/cesium-unity/releases.
